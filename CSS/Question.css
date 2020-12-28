@@ -1,0 +1,29 @@
+button  {
+    cursor: pointer;
+    background-color: inherit;
+    border: none;
+}
+
+div1 {
+    position: absolute;
+    left: 10px;
+    top: 80px;
+}
+
+div2 {
+    position: absolute;
+    left: 10px;
+    top: 120px;
+}
+
+div3 {
+    position: absolute;
+    left: 10px;
+    top: 160px;
+}
+
+div4 {
+    position: absolute;
+    left: 10px;
+    top: 200px;
+}

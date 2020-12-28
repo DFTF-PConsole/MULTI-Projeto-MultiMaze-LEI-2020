@@ -1,0 +1,92 @@
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: relative;
+    animation-name: logos;
+    animation-duration: 10s;
+    animation-timing-function: initial;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+body {
+    align-content: center;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#MainMenu {
+    display: none;
+}
+
+#GameMenu {
+    display: none;
+}
+
+#floor {
+    display: none;
+}
+
+#PauseMenu {
+    display: none;
+}
+
+#Options {
+    display: none;
+}
+
+#Ranking {
+    display: none;
+}
+
+#Credits {
+    display: none;
+}
+
+#introVideo {
+    display: none;
+}
+
+#HelpPage1 {
+    display: none;
+}
+
+#HelpPage2 {
+    display: none;
+}
+
+#HelpPage3 {
+    display: none;
+}
+
+#HelpPage4 {
+    display: none;
+}
+
+@keyframes logos {
+
+    10%{
+        background-image: url("../resources/images/logos/uc.png");
+    }
+    30%{
+        background-image: url("../resources/images/logos/dei.png");
+    }
+    60%{
+        background-image: url("../resources/images/logos/multimaze.png");
+    }
+    100%{
+        background-image: url("../resources/images/logos/multimaze.png");
+    }
+}
+
+video {
+    position: fixed;
+    left: 328px;
+    top: 0px;
+    width: 740px;
+    height: 480px;
+}

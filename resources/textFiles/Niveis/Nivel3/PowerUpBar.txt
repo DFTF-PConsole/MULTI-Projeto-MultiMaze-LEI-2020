@@ -1,0 +1,6 @@
+powerUpCoffe1.png 160 455 0 null
+powerUpCoffe2.png 160 455 0 null
+powerUpCoffe3.png 160 455 0 null
+powerUpCoffe4.png 160 455 0 null
+powerUpCoffe5.png 160 455 0 null
+powerUpStackCoffee.png 0 450 0 coffee.mp3

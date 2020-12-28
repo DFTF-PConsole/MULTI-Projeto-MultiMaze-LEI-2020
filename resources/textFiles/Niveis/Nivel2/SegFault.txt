@@ -1,0 +1,8 @@
+segFault-R-1.png 2200 430 1 segFault1.mp3
+segFault-R-2.png 2200 430 1 segFault1.mp3
+segFault-L-1.png 520 424 1 segFault1.mp3
+segFault-L-2.png 520 424 1 segFault1.mp3
+segFault-U-1.png 2058 240 1 segFault2.mp3
+segFault-U-2.png 2058 240 1 segFault2.mp3
+segFault-D-1.png 637 80 1 segFault2.mp3
+segFault-D-2.png 637 80 1 segFault2.mp3

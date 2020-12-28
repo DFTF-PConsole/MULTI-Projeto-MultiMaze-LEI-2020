@@ -1,0 +1,8 @@
+bug-R-1.png 900 426 2 bug.mp3
+bug-R-2.png 900 426 2 bug.mp3
+bug-L-1.png 900 426 2 bug.mp3
+bug-L-2.png 900 426 2 bug.mp3
+bug-D-1.png 1950 426 2 bug.mp3
+bug-D-2.png 1950 426 2 bug.mp3
+bug-U-1.png 1950 426 2 bug.mp3
+bug-U-2.png 1950 426 2 bug.mp3

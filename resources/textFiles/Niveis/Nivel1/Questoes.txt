@@ -1,0 +1,3 @@
+questao1 600 140 140
+questao2 1850 300 417
+questao3 2825 200 120

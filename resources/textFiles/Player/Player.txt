@@ -1,0 +1,10 @@
+player_right.png 20 45 1 player_steps.mp3
+player_left.png 20 45 1 player_steps.mp3
+player_up1.png 20 45 1 player_steps.mp3
+player_up2.png 20 45 1 player_steps.mp3
+player_down1.png 20 45 1 player_steps.mp3
+player_down2.png 20 45 1 player_steps.mp3
+player_idle_up.png 20 45 1 null
+player_idle_down.png 20 45 1 null
+player_idle_right.png 20 45 1 null
+player_idle_left.png 20 45 1 null
