@@ -1,4 +1,15 @@
 # MultiMaze
-FCTUC - DEI/LEI - MULT (Multimédia) - 2019/2020 - Projeto (PUB) - Licenciatura em Engenharia Informatica - Multimedia
+
+PUBLIC
+
+FCTUC DEI/LEI 2019/2020 - Licenciatura em Engenharia Informatica
+
+MULTI - Multimedia
+
+Projeto: "MultiMaze"
+
+
+Autores: Dário Félix / DFTF@PConsole# (DFTF-PConsole)  |  Eurico Sousa (saladass-0)  |  Maria Dias (saodias)
+
 
 # Outdated. Contains incompatibility errors.
